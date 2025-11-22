@@ -107,10 +107,8 @@ Create `.env` files in both frontend and backend as needed.
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
+.
 ---
 
 **MindCare+ — Empowering mental wellness with intelligent technology.**
+
