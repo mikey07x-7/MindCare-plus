@@ -1,0 +1,28 @@
+{
+  "name": "mindcare-app",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "axios": "^1.13.2",
+    "lucide-react": "^0.286.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.4.7",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.0"
+  }
+}
